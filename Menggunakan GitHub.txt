@@ -1,3 +1,5 @@
 belajar cara mendaftar di github
 - cara mengakses github di internet
 - memahami tools yang ada di dalam github
+-mencoba dengan cara mempraktekannya
+-belajar menyambungkan github
